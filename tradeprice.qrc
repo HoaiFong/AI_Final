@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="tradeprice">
+    <file>trading.jpg</file>
+  </qresource>
+</RCC>
